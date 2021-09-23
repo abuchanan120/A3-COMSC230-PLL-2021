@@ -162,6 +162,7 @@ header a:hover{
   article#main-col{
     float:left;
     width:65%;
+    text-align:center;
   }
   
   /* Teams */
