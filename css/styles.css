@@ -164,14 +164,20 @@ header a:hover{
     width:65%;
   }
   
-  /* Services */
-  ul#services li{
+  /* Teams */
+  ul#teams li{
     list-style: none;
     padding:20px;
     border: #cccccc solid 1px;
     margin-bottom:5px;
     background:#e6e6e6;
+    text-align: center;
   }
+  #teams img{
+    width:150px;
+    height:175px;
+  }
+
   
   footer{
     padding:20px;
