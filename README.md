@@ -1,14 +1,7 @@
-# A2-HTML-Responsive-Website
+# A3-COMSC230-PLL2021
 
-HTML Website project Based on the video tutorial by Brad Traversy:
+HTML Website restructuring project Based on the video tutorial by Brad Traversy:
 
 https://www.youtube.com/watch?v=Wm6CUkswsNw&feature=youtu.be
 
-In this video Brad uses 'Atom' as his IDE, we will be using VS Code.
-
-This repo has the starter folders and files for CSS, Images, and index.html
-
-There are 11 branches that cover the design and css styling for the home page.
-Each branch corresponds to the sequential changes that Brad makes in the video tutorial.
-It is recommended that you watch the video several times and use the different branches to 
-get a solid understanding of the html and css coding for each section of the home page.
+I changed the base COMSC230 Web Design page into a custom website for the 2021 Season of the Premier Lacrosse League (PLL). The main index page gives info about the PLL, with the teams page showing relevant team data for the season, and the champs page showing the 2021 Playoffs Champions with some info about their team.
