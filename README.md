@@ -1,4 +1,4 @@
-# A3-COMSC230-PLL2021
+# A3-COMSC230-PLL-2021
 
 HTML Website restructuring project Based on the video tutorial by Brad Traversy:
 
